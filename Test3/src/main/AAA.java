@@ -12,7 +12,7 @@ public class AAA {
 		String b = new String("kkk");
 		System.out.println(a==b);
 //		int k =(int) (Math.random() *11);
-//		//k=5;///moti
+//		//k=5;///moti//1
 //		System.out.println(k);
 //		int h=5;
 //		Scanner scanner = new Scanner(System.in);
